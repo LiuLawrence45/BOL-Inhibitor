@@ -1,0 +1,9 @@
+For each tab:
+
+- Add one more column "Day", for each tab it is the number X as show "Day X"
+- Remove top row
+- Duplicate the processing method (control #1, etc) across all counts of mice, name the column "Treatment"
+- Name the column with mice # (1,2,3,4 etc) as MiceID 
+- Keep the columns "Treatment, "MiceID", Length, Width, Volume, WEIGHT.  Remove everything else. 
+
+- concatenate all tabs
